@@ -41,14 +41,14 @@ The website is fully responsive and optimized for:
 - 🖥️ Large screens (1200px and up)
 
 ## 🌟 Highlights
--> Performance Optimized - Fast loading times
--> SEO Friendly - Proper meta tags and structure
--> Accessibility - Follows web accessibility guidelines
--> Cross-browser Compatible - Works on all modern browsers
+- Performance Optimized - Fast loading times
+- SEO Friendly - Proper meta tags and structure
+- Accessibility - Follows web accessibility guidelines
+- Cross-browser Compatible - Works on all modern browsers
 
 ## 📧 Contact
 Feel free to reach out to me:
 
-Email: mardaanurag174@gmail.com
-LinkedIn: https://www.linkedin.com/in/anurag-marda-b39492297/
-GitHub: https://github.com/Anurag17050
+- Email: mardaanurag174@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anurag-marda-b39492297/
+- GitHub: https://github.com/Anurag17050
