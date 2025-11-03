@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript to s
 
 ## 🌐 Live Demo
 
-Visit my portfolio: [https://anurag17050.github.io/my-portfolio/](https://anurag17050.github.io/my-portfolio/)
+Visit my portfolio: [My-Portfolio](https://anurag17050.github.io/my-portfolio/)
 
 ## 🚀 Features
 
@@ -50,5 +50,5 @@ The website is fully responsive and optimized for:
 Feel free to reach out to me:
 
 - Email: mardaanurag174@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anurag-marda-b39492297/
-- GitHub: https://github.com/Anurag17050
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anurag-marda-b39492297/)
+- GitHub: [GitHub](https://github.com/Anurag17050)
